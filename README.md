@@ -13,4 +13,4 @@ I made the Brick Breaker. I used the Unity Editor and C# for coding. I want to e
 
 -GameManager.
 
-To Play via WebGL : https://sharemygame.com/profile
+To Play via WebGL : https://sharemygame.com/@Poki
