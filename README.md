@@ -9,4 +9,8 @@ I made the Brick Breaker. I used the Unity Editor and C# for coding. I want to e
 
 -Brick State.
 
+-Levels.
+
 -GameManager.
+
+To Play via WebGL : https://sharemygame.com/profile
